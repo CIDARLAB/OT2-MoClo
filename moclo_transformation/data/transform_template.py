@@ -4,7 +4,7 @@
 '''
 	Up to 88 rxns per single run and 24 rxns for triplicate of each combination of DNA assembly
 	Multichannel p300, single channel p10
-    This protocol is optimized for maximum walkaway time and percision
+    This protocol is optimized for maximum walkaway time and precision
 	'''
 
 import time
