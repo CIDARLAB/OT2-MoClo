@@ -31,9 +31,11 @@ Users looking to implement the OT2 Modular Cloning and Transformation in E. coli
 
 ### Generating protocol
 
-3. Run the OT2-MoClo/moclo_transformation/moclo_transform_generator.py using Python (e.g. typing `python3 moclo_transform_generator.py` in the command line). Select the plate map, combinations list, and an output folder for the protocol when prompted.
+3. Install dependencies for the project by running in the command line `pip install -r requirements.txt` 
 
-4. A protocol named `moclo_transform_protocol.py` should be saved in the output folder. 
+4. Run the OT2-MoClo/moclo_transformation/moclo_transform_generator.py using Python (e.g. typing `python3 moclo_transform_generator.py` in the command line). Select the plate map, combinations list, and an output folder for the protocol when prompted.
+
+5. A protocol named `moclo_transform_protocol.py` should be saved in the output folder. 
 
 ## Authors
 
